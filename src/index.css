@@ -10,6 +10,11 @@ body {
   width: 100%;
   overflow-x: hidden; 
   /* To hide the horizontal bar in the web app */
+
+}
+
+a {
+  text-decoration: none;
 }
 
 @keyframes animateDown {
