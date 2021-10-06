@@ -1,5 +1,13 @@
 # Tesla Clone
 
+## Demo
+
+<p>
+    <img src="./public/demo/TeslaCloneDemo.gif" />
+</p>
+
+---
+
 ## NPM commands
 
 - `npx create-react-app tesla-clone --template redux`
